@@ -21,12 +21,5 @@ public class EvenAndOddDetector {
                 System.out.println("The number "+ n +" is odd number");
                 break;
         }
-        /*if(n == 0) {
-            System.out.println("Insert any valid number");
-        } else if (n % 2 == 0) { //If the residue of the division is same as 0, n is even number:)
-            System.out.println("The number "+ n +" is even number");
-        } else {
-            System.out.println("The number "+ n +" is odd number");
-        }*/
     }
 }
